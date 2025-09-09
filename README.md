@@ -65,7 +65,7 @@ A modern, scalable chat application built with React, Spring Boot, and deployed 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/chattingo.git
+git clone https://github.com/Iwill01/chattingo.git
 cd chattingo
 ```
 
@@ -250,7 +250,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Iwill01** - *Initial work* - [Iwill01](https://github.com/Iwill01)
 
 ## 🙏 Acknowledgments
 
