@@ -1,0 +1,10 @@
+apiVersion: v2
+name: chattingo
+description: A Helm chart for Chattingo application
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+dependencies:
+  - name: mysql
+    version: 9.4.6
+    repository: https://charts.bitnami.com/bitnami

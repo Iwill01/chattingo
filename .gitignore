@@ -4,7 +4,6 @@
 .cursorignore
 .kirignore
 
-
 # OS files
 .DS_Store
 .DS_Store?
@@ -87,7 +86,6 @@ mysql-data/
 .local/
 .cache/
 
-
 # Application specific logs
 frontend.log
 server.log
@@ -101,3 +99,19 @@ application.log
 # Temporary Maven files
 dependency-reduced-pom.xml
 email_system
+
+# Kubernetes
+*.kubeconfig
+.kube/
+
+# AWS
+.aws/
+
+# Helm
+helm/*/charts/
+helm/*/Chart.lock
+
+# SSL certificates
+nginx/ssl/*.pem
+nginx/ssl/*.key
+nginx/ssl/*.crt
